@@ -1,6 +1,6 @@
 # ROS Docker Development Setup
 ## Setup
-- [install docker](ttps://docs.docker.com/get-docker/)
+- [install docker](https://docs.docker.com/get-docker/)
 - clone this repo with `git clone git@github.com:hoenigpeter/ros_docker.git` 
 - use `bash download_example_projects.sh` to download some ROS Noetic examples packages into the `./projects` folder
 - use `docker compose up` to build and run the docker container
